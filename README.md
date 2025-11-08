@@ -1,67 +1,64 @@
-🛒 E-SuppKart — Smart E-Commerce Platform
-🚀 Overview
+🛒 E-SuppKart — Modern E-Commerce Website (HTML + CSS)
+🧭 Overview
 
-E-SuppKart is a modern e-commerce web application that offers users a seamless and responsive online shopping experience.
-Built with HTML, CSS, and JavaScript, it focuses on smooth navigation, user authentication, and dynamic UI components.
-The project demonstrates real-world design flow for an online retail store — from sign-in to order updates — making it ideal for frontend portfolio demonstration.
+E-SuppKart is a responsive and visually engaging e-commerce website template built entirely with HTML and CSS.
+It showcases multiple user-flow pages — from login to registration and order updates — designed for smooth navigation and clean modern UI.
+This project demonstrates strong frontend layout design, user interface structure, and styling fundamentals without JavaScript or backend logic.
 
 ✨ Features
 
-✅ User registration & secure sign-in
-✅ OTP (One-Time Password) verification
-✅ Password reset & update workflows
-✅ Responsive layout optimized for all devices
-✅ Modern UI using clean CSS styling
-✅ Modular design — easy to scale with backend integration (Node.js / MongoDB / Firebase)
+✅ Fully responsive multi-page layout
+✅ Clean and modern CSS design
+✅ Separate pages for Sign In, Registration, OTP, Password Reset, and Profile Update
+✅ Simple navigation and consistent theme
+✅ Organized folder structure for easy editing and reuse
 
 🧠 Tech Stack
-Layer	Technologies Used
-💻 Frontend	HTML5, CSS3, JavaScript (Vanilla)
-🎨 Styling	CSS Flexbox, Responsive Design
-🧩 Future Integration	Node.js, Express.js, MongoDB (optional backend)
-🔐 Authentication	OTP + Password Reset Pages (UI)
+Layer	Technologies
+💻 Frontend	HTML5, CSS3
+🎨 Styling	Flexbox • Grid • Custom CSS
 📁 Folder Structure
 E-SuppKart/
 │
-├── img/                   # Project images & assets
-├── main.html              # Homepage
-├── signin.html            # Sign-in page
-├── registered.html        # Registration confirmation
-├── resetpassword.html     # Password reset page
-├── updated.html           # Profile update confirmation
-├── *.css                  # All corresponding style sheets
-└── README.md              # Project documentation
+├── img/                     # Images & assets
+├── main.html                # Home page
+├── signin.html              # Sign-in page
+├── registered.html          # Registration success
+├── onetimepassword.html     # OTP verification
+├── resetpassword.html       # Reset password page
+├── updated.html             # Profile update page
+├── *.css                    # All style sheets
+└── README.md                # Documentation
 
-⚙️ Setup Instructions
+⚙️ How to View
 
-To run this project locally:
+1️⃣ Clone or Download this repository
 
-# Clone the repository
 git clone https://github.com/Anuneet323/e-suppkart.git
 
-# Open the folder
+
+2️⃣ Open the folder
+
 cd e-suppkart
 
-# Run the app
-# Just open main.html in your browser
 
+3️⃣ Launch by opening main.html in your browser.
+✅ No build steps — works instantly!
 
-✅ That’s it — no build setup needed!
+🎨 Design Highlights
 
-🎨 Future Enhancements
+Elegant color palette and consistent typography
 
-Convert frontend to React or Next.js
+Mobile-friendly layout using media queries
 
-Add Express + MongoDB backend for authentication & cart management
+Minimalist component design for clarity and readability
 
-Integrate Razorpay / Stripe for payments
-
-Add Admin Dashboard and Inventory Management
+Easy to extend into a JavaScript- or backend-enabled project later
 
 🧑‍💻 Author
 
 Anuneet Singh Chauhan
-💼 Full Stack Developer | MERN & Next.js Enthusiast
+💼 Frontend Developer | UI Designer
 📧 anuneetsinghchauhan@gmail.com
 
-🌐 GitHub Profile → Anuneet323
+🌐 GitHub → Anuneet323
